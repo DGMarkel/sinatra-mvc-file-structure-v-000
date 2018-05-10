@@ -1,5 +1,3 @@
-require 'pry'
-
 class Dog
   attr_accessor :name, :age, :breed
   @@all = []
@@ -16,5 +14,3 @@ class Dog
   end
 
 end
-
-binding.pry
