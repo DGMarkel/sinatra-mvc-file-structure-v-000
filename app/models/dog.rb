@@ -15,8 +15,4 @@ class Dog
 
 end
 
-Dog.new("bling", 14, "blong")
-Dog.new("bling", 14, "blong")
-Dog.new("bling", 14, "blong")
-Dog.new("bling", 14, "blong")
-puts "#{@@all}"
+binding.pry
