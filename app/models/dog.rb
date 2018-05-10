@@ -19,4 +19,3 @@ Dog.new("bling", 14, "blong")
 Dog.new("bling", 14, "blong")
 Dog.new("bling", 14, "blong")
 Dog.new("bling", 14, "blong")
-@@all
